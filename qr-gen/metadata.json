@@ -1,0 +1,5 @@
+{
+  "name": "QR Gen",
+  "description": "A simple and elegant QR code generator for website URLs.",
+  "requestFramePermissions": []
+}
